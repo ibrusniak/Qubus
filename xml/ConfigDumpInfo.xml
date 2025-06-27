@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="23b0d4eeeddee449a4f1f56067134c4900000000"/>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="b429a4ffbceeec4cbf99a3bdd946cee000000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="4b01606d0f6dc54c96814663800f203400000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="4001b7328290184d8c451c808c88023100000000"/>
 		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="e0f1dfc68aea4b43939350562f969aa300000000"/>
 		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="cc61e2c91cdd1d43b69b3b62ccd5a93f00000000"/>
 		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="26712bc167070e40861cf2b0cbf05ed300000000"/>
