@@ -5,10 +5,12 @@
 		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="80343e789278504580dedbc09848f9b400000000"/>
 		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="e0f1dfc68aea4b43939350562f969aa300000000"/>
 		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="cc61e2c91cdd1d43b69b3b62ccd5a93f00000000"/>
-		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="d5bb4207d683694ead74b8a66e19d7e000000000"/>
+		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="26712bc167070e40861cf2b0cbf05ed300000000"/>
 		<Metadata name="Language.English" id="48e418d7-a245-4414-8fd0-bef6a8a0356c" configVersion="4fcd5273f1156c4894f50970351e503700000000"/>
 		<Metadata name="Language.Русский" id="650742c0-61fd-4ea1-8c02-2d5757bf69be" configVersion="a88d0c6deb20e947b9ebc682c3974c4600000000"/>
 		<Metadata name="Language.Украинский" id="d6137e24-65e3-4485-8ede-9ee487d643a8" configVersion="810c85ac2c026b40ad4ca3376965deb200000000"/>
+		<Metadata name="Role.КубусПолныеПрава" id="15501f1b-3c3e-40db-87ad-98602bb163e4" configVersion="50dd652337e70746987ec5c753c0918700000000"/>
+		<Metadata name="Role.КубусПолныеПрава.Rights" id="15501f1b-3c3e-40db-87ad-98602bb163e4.0" configVersion="d46c176fd82c9c419f8ad9c10692b76800000000"/>
 		<Metadata name="Subsystem.Кубус" id="ff31f562-1545-44ac-9008-36cb375c43ae" configVersion="dc5e855d01288e48a753de1a273bfba100000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
