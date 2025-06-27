@@ -12,7 +12,7 @@
 			<ClientOrdinaryApplication>true</ClientOrdinaryApplication>
 			<ServerCall>false</ServerCall>
 			<Privileged>false</Privileged>
-			<ReturnValuesReuse>DontUse</ReturnValuesReuse>
+			<ReturnValuesReuse>DuringSession</ReturnValuesReuse>
 		</Properties>
 	</CommonModule>
 </MetaDataObject>
