@@ -250,6 +250,7 @@ https://github.com/ibrusniak/Qubus</v8:content>
 			<Language>English</Language>
 			<Language>Русский</Language>
 			<Language>Украинский</Language>
+			<Subsystem>Кубус</Subsystem>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
