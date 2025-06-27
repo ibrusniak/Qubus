@@ -32,19 +32,19 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Qubus</Name>
+			<Name>Кубус</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>en</v8:lang>
-					<v8:content>Qubus</v8:content>
+					<v8:content>Кубус</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Qubus</v8:content>
+					<v8:content>Кубус</v8:content>
 				</v8:item>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>Qubus</v8:content>
+					<v8:content>Кубус</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment>https://github.com/ibrusniak/Qubus</Comment>
