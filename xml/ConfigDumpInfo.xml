@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="CommonModule.КубусВалидацияСервер" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd" configVersion="7de48ebe8de34e43932a33ed51ec969300000000"/>
-		<Metadata name="CommonModule.КубусВалидацияСервер.Module" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd.0" configVersion="f8a77bf30fd7c343a4028f5a66101dd400000000"/>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="188b79ea61fb394c9a65aca692a36cd100000000"/>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="b63b34d7edb52746b928f7d5914af90500000000"/>
-		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="50b4b858b6f7be48bd22acf9da99261f00000000"/>
-		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="c16a0b08b03b1e448b957a74301660fc00000000"/>
+		<Metadata name="CommonModule.КубусВалидацияСервер" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd" configVersion="5d5642e96bfbb64e9b202b0585cfc39e00000000"/>
+		<Metadata name="CommonModule.КубусВалидацияСервер.Module" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd.0" configVersion="d1bb45074c2f19438012f88f6048433100000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="5bcfc10527b11043b8af1c3f5b65b8ae00000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="eb710b66315c0948ac09ba0ed92bc87e00000000"/>
+		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="57afb705afc33f4fb11a5e754b2ac61c00000000"/>
+		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="217841b2194e134e9f9a3f365889a95600000000"/>
 		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="b941eaf52f70284bb00524c8c72cfcda00000000"/>
 		<Metadata name="HTTPService.КубустОтладкаВалидации" id="45a96304-cb1d-46cf-8686-ed5c40ad53bd" configVersion="105918eadd08404ba63a7e0cc202d29e00000000">
 			<Metadata name="HTTPService.КубустОтладкаВалидации.URLTemplate.Request" id="58ac3584-2571-431f-ac5a-ff647b4a2bb5"/>
