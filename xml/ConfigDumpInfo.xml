@@ -1,16 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.12">
 	<ConfigVersions>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="4b01606d0f6dc54c96814663800f203400000000"/>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="4001b7328290184d8c451c808c88023100000000"/>
-		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="e0f1dfc68aea4b43939350562f969aa300000000"/>
-		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="cc61e2c91cdd1d43b69b3b62ccd5a93f00000000"/>
-		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="26712bc167070e40861cf2b0cbf05ed300000000"/>
+		<Metadata name="CommonModule.КубусВалидацияСервер" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd" configVersion="c988cb82db8d144fab0c66d324b95b1900000000"/>
+		<Metadata name="CommonModule.КубусВалидацияСервер.Module" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd.0" configVersion="a210739e0871fa4eb76880ce11c6ed7b00000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="5f742f67c7a4c042a0eaf4f14b5908f700000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="2d210e2341d3b74e8d0cf183e190575700000000"/>
+		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="50b4b858b6f7be48bd22acf9da99261f00000000"/>
+		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="c16a0b08b03b1e448b957a74301660fc00000000"/>
+		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="7a6e3fc30984634a8ad7adb6b7530a7800000000"/>
 		<Metadata name="Language.English" id="48e418d7-a245-4414-8fd0-bef6a8a0356c" configVersion="4fcd5273f1156c4894f50970351e503700000000"/>
 		<Metadata name="Language.Русский" id="650742c0-61fd-4ea1-8c02-2d5757bf69be" configVersion="a88d0c6deb20e947b9ebc682c3974c4600000000"/>
 		<Metadata name="Language.Украинский" id="d6137e24-65e3-4485-8ede-9ee487d643a8" configVersion="810c85ac2c026b40ad4ca3376965deb200000000"/>
 		<Metadata name="Role.КубусПолныеПрава" id="15501f1b-3c3e-40db-87ad-98602bb163e4" configVersion="50dd652337e70746987ec5c753c0918700000000"/>
 		<Metadata name="Role.КубусПолныеПрава.Rights" id="15501f1b-3c3e-40db-87ad-98602bb163e4.0" configVersion="d46c176fd82c9c419f8ad9c10692b76800000000"/>
-		<Metadata name="Subsystem.Кубус" id="ff31f562-1545-44ac-9008-36cb375c43ae" configVersion="dc5e855d01288e48a753de1a273bfba100000000"/>
+		<Metadata name="Subsystem.Кубус" id="ff31f562-1545-44ac-9008-36cb375c43ae" configVersion="a1b4e1be65e40842951f508114baec1600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

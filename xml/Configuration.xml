@@ -254,6 +254,7 @@ https://github.com/ibrusniak/Qubus</v8:content>
 			<Role>КубусПолныеПрава</Role>
 			<CommonModule>КубусОбщегоНазначенияКлиентСервер</CommonModule>
 			<CommonModule>КубусСтроковыеЗначенияКлиентСервер</CommonModule>
+			<CommonModule>КубусВалидацияСервер</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
