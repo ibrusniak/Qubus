@@ -3,8 +3,8 @@
 	<ConfigVersions>
 		<Metadata name="CommonModule.КубусВалидацияСервер" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd" configVersion="9f0b8f38e4c271489d77dbcf796dea4b00000000"/>
 		<Metadata name="CommonModule.КубусВалидацияСервер.Module" id="740d62d2-a55b-4ed3-b8dd-1b370fecb4bd.0" configVersion="a4c8782e8ad4d846ad780cf698c51d3e00000000"/>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="c5badef45c5531489f0c20c425b6014200000000"/>
-		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="e42b799e10e7cb4892e26e2d0ce40f9100000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f" configVersion="e1acac3e4b2db045bdcb39ead060b83b00000000"/>
+		<Metadata name="CommonModule.КубусОбщегоНазначенияКлиентСервер.Module" id="ef15115b-5968-4ad2-88b4-2b6f3a0ae64f.0" configVersion="adaa146c04d02e4c85a0685c641e81fe00000000"/>
 		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04" configVersion="21fdaa06648b8642948e2cdb4a01fb2300000000"/>
 		<Metadata name="CommonModule.КубусСтроковыеЗначенияКлиентСервер.Module" id="e9dece25-b53e-4ea6-81a4-53fb8e601b04.0" configVersion="31008dc651142346bd910ea28250545f00000000"/>
 		<Metadata name="Configuration.Кубус" id="b9fb1fc9-60df-4ea0-8a0e-f21a43cedbe6" configVersion="b941eaf52f70284bb00524c8c72cfcda00000000"/>
